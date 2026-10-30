@@ -1,0 +1,4 @@
+{"name":"aura-power","version":"1.0.0","private":true,
+"scripts":{"assets":"capacitor-assets generate --iconBackgroundColor '#1a0a08' --splashBackgroundColor '#1a0a08'"},
+"dependencies":{"@capacitor/core":"^6.1.2","@capacitor/android":"^6.1.2","@capacitor/ios":"^6.1.2","@capacitor/splash-screen":"^6.0.2"},
+"devDependencies":{"@capacitor/cli":"^6.1.2","@capacitor/assets":"^3.0.5"}}
